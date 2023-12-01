@@ -144,31 +144,31 @@ obfuscate parts of your screenshot.
 # Development
 
 - ## Dependency 
-    - [Composer](https://getcomposer.org/download)
-    - [Download | Node.js](https://nodejs.org/en/download)
-    - [Git](https://git-scm.com/)
-    - [GitHub Desktop](https://desktop.github.com/)
+    - [Composer](https://getcomposer.org/download) : A Dependency Manager for PHP
+    - [Download | Node.js](https://nodejs.org/en/download) : Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+    - [Git](https://git-scm.com/) : Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+    - [GitHub Desktop](https://desktop.github.com/) : Simple collaboration from your desktop
 
 - ## Database
-    - [Download HeidiSQL](https://www.heidisql.com/download.php)
-    - [Adminer - Database management in a single PHP file](https://www.adminer.org)
-    - [MySQL :: Developer Zone](https://dev.mysql.com/)
+    - [HeidiSQL](https://www.heidisql.com) :  see and edit data and structures from computers running one of the database systems MariaDB, MySQL, Microsoft SQL, PostgreSQL and SQLite. 
+    - [Adminer](https://www.adminer.org) : Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others via plugin.
+    - [MySQL](https://dev.mysql.com/) : A leading open-source relational database management system. Power your applications with secure, scalable, and high-performance database solutions.
 
 - ## Runtime
-    - [Java SE Runtime Environment 8 - Downloads](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
-
-    - [Download Python](https://www.python.org/downloads)
+    - [Java SE Runtime Environment 8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html) : Enable your applications to run Java programs seamlessly
+    - [Python](https://www.python.org/downloads) : Python is a programming language that lets you work quickly
+and integrate systems more effectively
 
 - ## Local Development
-    - [Laragon - portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby.](https://laragon.org/)
-    - [Download](https://www.apachefriends.org/download.html)
-    - [ospanel](https://ospanel.io/download)
-    - [Get Started with Docker | Docker](https://www.docker.com/get-started)
-    - [WampServer](https://www.wampserver.com/)
-    - [Uniform Server | Free WAMP Server Solution](https://www.uniformserver.com/)
-    - [ConEmu - Handy Windows Terminal](https://conemu.github.io/)
-    - [Tabby - a terminal for a more modern age](https://tabby.sh/)
-    - [Nextcloud - Online collaboration platform](https://nextcloud.com/)
+    - [Laragon](https://laragon.org/) : Laragon: A great fast and easy way to create an isolated dev environment on Windows. Includes Mysql, PHP Memcached, Redis, Apache, and awesome for working with your Laravel projects.
+    - [XAMPP](https://www.apachefriends.org/download.html) : XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
+    - [Open Server Panel](https://ospanel.io/) : A portable software environment created specifically for web developers, taking into account their recommendations and wishes.
+    - [Docker](https://www.docker.com/get-started) : Get started with Docker Desktop and join millions of developers in faster, more secure app development using containers and beyond.
+    - [WampServer](https://www.wampserver.com/) : WampServer is a Windows-based Web development platform for building dynamic Web applications using Apache2, PHP and MySQL.
+    - [Uniform Server](https://www.uniformserver.com/) : Build using a modular design approach, it includes the latest versions of Apache, MySQL or MariaDB, PHP (with version switching), phpMyAdmin or Adminer. No installation required! No registry dust! Just unpack and fire up!
+    - [ConEmu](https://conemu.github.io/) : ConEmu-Maximus5 is a full-featured local terminal for Windows devs, admins and users. Get better console window with tabs, splits, Quake style, copy+paste, DosBox and PuTTY integration, and much more.
+    - [Tabby](https://tabby.sh/) : Tabby is a free and open source SSH, local and Telnet terminal with everything you'll ever need.
+    - [Nextcloud](https://nextcloud.com/) : The most popular open source content collaboration platform for tens of millions of users at thousands of organizations across the globe
 
 - ## Code Editors
 
