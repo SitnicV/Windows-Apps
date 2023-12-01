@@ -60,7 +60,9 @@
     - **[4K Video Downloader](https://www.4kdownload.com)** : The simplest video downloader, ever! Download video and audio from YouTube and similar services on macOS, PC and Linux absolutely for free!
 - #### Cutter
     - **[VidCutter](https://github.com/ozmartian/vidcutter)** : A modern yet simple multi-platform video cutter and joiner. - ozmartian/vidcutter: A modern yet simple multi-platform video cutter and joiner.
-
+- #### IPTV
+    - **[SimpleTV](http://plst.rf.gd)** : SimpleTV is a free IPTV player developed by SergeyVS for watching IPTV and local files.
+    - **[Kodi](https://kodi.tv/)** : Kodi is a free media player that is designed to look great on your big screen TV but is just as at home on a small screen.
 
 ### Office
 **[]()** :
@@ -98,4 +100,16 @@
 
 ### Online Utilities
 
-### Game Store
+### Games
+- **[Epic Games](https://store.epicgames.com/en-US/)** : Welcome to Epic Games Store! Download and play PC Games of every genre. We have mods, DLC and Free Games too! Games for everyone.
+- **[Steam](https://store.steampowered.com/)** : Steam is the ultimate destination for playing, discussing, and creating games.
+- **[TLAUNCHER](https://tlauncher.org/)** : If you want to find a first-rate Minecraft launcher, we recommend downloading TLauncher – the best among its competitors!
+- **[Batlle.net](https://download.battle.net/en-gb/?product=bnetdesk)** : Download the Battle.net app and connect with friends, launch your games, and always get the latest news.
+- **[itch.io](itch.io)** : An online game marketplace and community. Also an app which manages downloading and updating of games acquired through the website.
+- **[FreeToGame](https://www.freetogame.com/)** : FreeToGame provides access to the best free-to-play multiplayer games and MMO Games while rewarding gamers with free premium in-game loot and exclusive perks. Plus track what you've played and search for what to play next!
+- **[Google Play Games](https://play.google.com/googleplaygames)** : Joacă jocuri mobile Android pe PC folosind Jocuri Google Play, playerul pentru aplicații și platforma de jocuri Google pentru PC-uri și laptopuri Windows.
+- **[Striked](https://striked.gg)** : Experience the exciting world of Striked, a universe made for gaming! Start your own community, buy games, share content, and have fun with friends.
+- **[Valorant](https://playvalorant.com/en-us/)** : Riot Games presents VALORANT: a 5v5 character-based tactical FPS where precise gunplay meets unique agent abilities. Learn about VALORANT and its stylish cast
+
+
+
