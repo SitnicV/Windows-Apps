@@ -89,14 +89,13 @@
 - [Bitwarden](https://bitwarden.com/download) : Bitwarden makes it easy for businesses and individuals to securely generate, store, and share passwords from any location, browser, or device. Create your free Bitwarden account today.
 
 # Audio
-
-- [AIMP](http://www.aimp.ru/?do=download)
-- [Tauon Music Box | Music player for the Desktop](https://tauonmusicbox.rocks/)
-- [Music for everyone.](https://www.spotify.com/download)
-- [LMMS | Home](https://lmms.io/)
-- [Home](https://www.audacityteam.org/)
-- [Clownfish Voice Changer](https://clownfish-translator.com/voicechanger/)
-- [ocenaudio](https://www.ocenaudio.com/)
+- [Spotify](https://www.spotify.com/download) : Spotify is a digital music service that gives you access to millions of songs.
+- [AIMP](http://www.aimp.ru/?do=download) : Is powerful free audio player for Windows and Linux (through Wine) that supports for local files, NAS, clouds and podcasts. Additionally, it includes powerful tools to operate with audio files.
+- [Tauon Music Box](https://tauonmusicbox.rocks/) : A modern, streamlined music player app that's packed with features! An emphasis on playlists and drag and drop importing puts you in control of your music library! Faded volume control, 24bit FLAC support and gapless playback provides the ultimate listening experience!
+- [Audacity](https://www.audacityteam.org/) : Audacity is a free, easy-to-use, multi-track audio editor and recorder. Edit, mix, and enhance your audio tracks with the power of Audacity.
+- [Ocenaudio](https://www.ocenaudio.com/) : The ocenaudio is a cross-platform audio editor, easy to use, fast and functional.
+- [Clownfish Voice Changer](https://clownfish-translator.com/voicechanger/) : Clownfish Voice Changer is an application for changing your voice. It's installed on system level so every application that uses microphone or other audio capture device will be affected. In general - your voice will be modified in Steam, Skype, Hangouts, ooVoo, Viber, Ekiga, Jitsi, Ventrilo, TeamSpeak, Mumble, Discord, etc.
+- [LMMS](https://lmms.io/) : LMMS is a free, open source, multiplatform digital audio workstation.
 
 
 # Images
