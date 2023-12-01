@@ -10,7 +10,16 @@
  - **[Snapchat](https://www.snapchat.com/)** : Chat, send Snaps, explore Stories and Lenses on desktop or download the app for mobile! Connect and create with friends – wherever you are.
 
 ### Browsers
-**[]()** :
+- **[Brave](https://brave.com)** : The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves data and battery life by blocking tracking software.
+- **[Mozilla](https://www.mozilla.org)** : Did you know? Mozilla — the maker of Firefox — fights to keep the internet a global public resource, open and accessible to all.
+- **[LibreWolf](https://librewolf.net)** : A custom version of Firefox, focused on privacy, security and freedom.
+- **[Waterfox](https://www.waterfox.net)** : Waterfox is the privacy-focused web browser engineered to give you speed, control, and peace of mind on the internet.
+- **[Google Chrome](https://www.google.com/chrome)** : Chrome is the official web browser from Google, built to be fast, secure, and customizable. Download now and make it yours.
+- **[Tor Project](https://www.torproject.org)** : Anonymity Online | Defend yourself against tracking and surveillance. Circumvent censorship.
+- **[Opera](https://www.opera.com)** : Faster, safer and smarter than default browsers. Fully-featured for privacy, security, and so much more. Get the faster, better Opera browser for free.
+- **[Vivaldi](https://vivaldi.com)** : It’s a web browser. But fun. It comes with a bunch of clever features built-in. It’s super flexible and does not track you. Get the Vivaldi browser for desktop, mobile, and your car!
+
+
 
 ### Video
 #### Video Players
