@@ -27,7 +27,7 @@
     - **[K-Lite Codec Pack](https://www.codecguide.com)** : The K-Lite Codec Pack is a free software bundle for high quality playback of all your music and video files. It is easy to use, but also very flexible with many options. Enjoy problem free playback of MKV, MP4, AVI, FLV, and all other multimedia file formats.
     - **[mvp](https://mpv.io)** : mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types.
     - **[GOM Player](https://www.gomlab.com/gomplayer-media-player)** : GOM Player is a free video player that allows you to play videos in various formats through an integrated codec, find subtitles, and watch 360-degree VR videos.
-    - **[POT Player](https://potplayer.daum.net)** : PotPlayer: A versatile multimedia player for Windows. Enjoy seamless playback of various video and audio formats, with customization options, subtitle support, and performance optimization.
+    - **[POT Player](https://potplayer.daum.net)** : A versatile multimedia player for Windows. Enjoy seamless playback of various video and audio formats, with customization options, subtitle support, and performance optimization.
 
 - #### Video Editors
     - **[]()** :
