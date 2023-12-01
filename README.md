@@ -2,7 +2,7 @@
 
 ### Social
 
-    - **[Telegram](https://telegram.org)** :  Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.
+- **[Telegram](https://telegram.org)** : Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.
  
 
 ### Browsers
