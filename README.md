@@ -64,28 +64,52 @@
 
 # Office
 
+### Note-Taking and Document Organization
+
+
 - [Anytype](https://download.anytype.io/) : for those who celebrate trust & autonomy.
-- [Librum](https://librumreader.com/) : Librum is an application designed to make reading enjoyable and straightforward for everyone.
-- [Focalboard](https://www.focalboard.com/) : Centralize, plan, and track all your work in one place. Focalboard helps your organization maintain a single source of truth, so your teams stay aligned to complete tasks, reach milestones, and achieve their goals.
 - [Notion](https://www.notion.so) : A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
-- [LibreOffice](https://www.libreoffice.org/) : Free office suite – the evolution of OpenOffice. Compatible with Microsoft .doc, .docx, .xls, .xlsx, .ppt, .pptx. Updated regularly, community powered.
-- [Okular](https://okular.kde.org) : Multi-platform, fast and packed with features, Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.
-- [WPS Office](http://www.wps.com/download) : It's a free office software to help you easy work on PC, windows 10, windows 7, mac, iOS and android phone.
-- [Calligra](https://calligra.org/) : Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases.
-- [CBR Reader ](http://www.cdisplayex.com/) : Light, Efficient CBR Reader. It is the most popular comic book reader. It is able to read all comic book formats (.cbr file, .cbz, .pdf, etc..) and Manga. Everything is designed to give you the best reading experience, it load comic books immediately, reading is fluid and comfortable.
 - [Obsidian](https://obsidian.md/) : Obsidian is the private and flexible note‑taking app that adapts to the way you think.
-- [DeepL Translate](https://www.deepl.com/translator) : Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
-- [Sumatra PDF](https://www.sumatrapdfreader.org/) : Sumatra PDF reader and viewer for Windows
-- [Thunderbird](https://www.thunderbird.net/en-US/) : Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!
 - [Joplin](https://joplinapp.org/) : An open source note-taking app. Capture your thoughts and securely access them from any device.
 - [Simplenote](https://simplenote.com/) : The simplest way to keep notes. Light, clean, and free. Simplenote is now available for iOS, Android, Mac, and the web.
 - [Standard Notes](https://standardnotes.com/) : Standard Notes helps you gain control in a world that often feels out of control. Protect your life's work with end-to-end encryption, advanced security measures, and unmatched privacy controls.
-- [Scribus](https://www.scribus.net/) :  Open-source desktop publishing software for creating professional layouts and documents. Design visually appealing brochures, magazines, and more with this powerful and free publishing tool
-- [Logseq ](https://logseq.com/) Logseq is the open toolbox for workflows that deal with lots of information: Task Management, PDF Annotations, Flashcards, Whiteboards
-- [Caibre](https://calibre-ebook.com/) : The one stop solution for all your e-book needs. Comprehensive e-book software.
-- [Pencil](https://pencil.evolus.vn/) : Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms.
-- [Super Productivity ](https://github.com/johannesjo/super-productivity) : Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities.
+- [Logseq](https://logseq.com/) Logseq is the open toolbox for workflows that deal with lots of information: Task Management, PDF Annotations, Flashcards, Whiteboards
 - [AppFlowy](https://appflowy.io/) : AppFlowy is an AI-powered secure workspace where you achieve more without losing control of your data
+
+### Document Editors and Suites
+
+- [LibreOffice](https://www.libreoffice.org/) : Free office suite – the evolution of OpenOffice. Compatible with Microsoft .doc, .docx, .xls, .xlsx, .ppt, .pptx. Updated regularly, community powered.
+- [WPS Office](http://www.wps.com/download) : It's a free office software to help you easy work on PC, windows 10, windows 7, mac, iOS and android phone.
+- [Calligra](https://calligra.org/) : Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases.
+- [Pencil](https://pencil.evolus.vn/) : Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms.
+- [Scribus](https://www.scribus.net/) :  Open-source desktop publishing software for creating professional layouts and documents. Design visually appealing brochures, magazines, and more with this powerful and free publishing tool
+
+### Reading and Viewing
+
+- [Librum](https://librumreader.com/) : Librum is an application designed to make reading enjoyable and straightforward for everyone.
+- [Okular](https://okular.kde.org) : Multi-platform, fast and packed with features, Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.
+- [CBR Reader ](http://www.cdisplayex.com/) : Light, Efficient CBR Reader. It is the most popular comic book reader. It is able to read all comic book formats (.cbr file, .cbz, .pdf, etc..) and Manga. Everything is designed to give you the best reading experience, it load comic books immediately, reading is fluid and comfortable.
+- [Sumatra PDF](https://www.sumatrapdfreader.org/) : Sumatra PDF reader and viewer for Windows
+
+### Communication and Collaboration
+
+- [Focalboard](https://www.focalboard.com/) : Centralize, plan, and track all your work in one place. Focalboard helps your organization maintain a single source of truth, so your teams stay aligned to complete tasks, reach milestones, and achieve their goals.
+- [Thunderbird](https://www.thunderbird.net/en-US/) : Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!
+
+### Translation and Language Tools
+
+- [DeepL Translate](https://www.deepl.com/translator) : Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
+
+### Productivity and Task Management
+
+- [Super Productivity ](https://github.com/johannesjo/super-productivity) : Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities.
+
+### E-book Management
+
+- [Caibre](https://calibre-ebook.com/) : The one stop solution for all your e-book needs. Comprehensive e-book software.
+
+### Password Management
+
 - [Bitwarden](https://bitwarden.com/download) : Bitwarden makes it easy for businesses and individuals to securely generate, store, and share passwords from any location, browser, or device. Create your free Bitwarden account today.
 
 # Audio
