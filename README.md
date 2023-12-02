@@ -176,53 +176,53 @@ and integrate systems more effectively
     - [Visual Studio Code](https://code.visualstudio.com) : Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
     - [Visual Studio](https://visualstudio.microsoft.com/downloads/) : The most comprehensive IDE for .NET and C++ developers on Windows for building web, cloud, desktop, mobile apps, services and games.
     - [Android Studio](https://developer.android.com/studio) : Get the official Integrated Development Environment (IDE) for Android app development.
-    - 💲 [Bootstrap Studio](https://bootstrapstudio.io/) : A powerful web design tool for creating responsive websites using the Bootstrap framework.
     - [VSCodium](https://vscodium.com/) : VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.
+     - 💲 [Bootstrap Studio](https://bootstrapstudio.io/) : A powerful web design tool for creating responsive websites using the Bootstrap framework.
 
 - ## FTP / SFTP / SSH
 
-    - [FileZilla](https://filezilla-project.org/index.php)
-    - [PuTTY - Secure Download - Latest release (0.70)](https://www.ssh.com/ssh/putty/download)
-    - [FlashFXP - Secure FTP Client Software for Windows. Upload, Download, and Synchronize your files.](https://www.flashfxp.com)
+    - [FileZilla](https://filezilla-project.org/index.php) : Free FTP solution for both client and server. Filezilla is open source software distributed free of charge.
+    - [PuTTY](https://www.ssh.com/ssh/putty/download) : Popular SSH, Telnet, and SFTP client for Windows. It is typically used for remote access to server computers over a network using the SSH protocol.
+    - 💲 [FlashFXP](https://www.flashfxp.com) : FlashFXP - Windows FTP Client. Supports FTP, FXP, FTPS, and SFTP file transfers. Free trial download.
+
 
 - ## Game Makers
 
-    - [Make 2D Games With GameMaker | Free Video Game Maker](https://gamemaker.io/en)
-    - [Free and Easy Game-Making App | GDevelop](https://gdevelop.io/)
-    - [Godot Engine - Free and open source 2D and 3D game engine](https://godotengine.org/)
-    - [Game Making Software - Construct 3](https://www.construct.net/en)
-    - [Phaser](https://phaser.io/)
-    - [Unity Real-Time Development Platform | 3D, 2D, VR & AR Engine](https://unity.com/)
-    - [Stencyl: Make iPhone, iPad, Android & Flash Games without code](https://stencyl.com/)
-    - [Roblox](https://www.roblox.com/create)
-    - [gamesalad](https://gamesalad.com/)
+    - [GameMaker](https://gamemaker.io/en) : Make a game with GameMaker, the best free video game engine. Perfect for beginners and professionals. Learn to build your own 2D games with our simple tutorials.
+    - [GDevelop](https://gdevelop.io/) : GDevelop is an open-source, game making app that is free and easy to use. Find 2D and 3D game development tutorials, publish to Android, iOS, and more.
+    - [Godot Engine](https://godotengine.org/) : Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel.
+    - [Construct 3](https://www.construct.net/en) : Make your own game in your browser without coding or with Javascript. Building games has never been easier!
+    - [Phaser](https://phaser.io/) : Desktop and Mobile HTML5 game framework. A fast, free and fun open source framework for Canvas and WebGL powered browser games.
+    - [Unity](https://unity.com/) : Create and grow real-time 3D games, apps, and experiences for entertainment, film, automotive, architecture, and more.
+    - [Stencyl](https://stencyl.com/) : Stencyl isn't your average game creation software; it's a gorgeous, intuitive toolset that accelerates your workflow and then gets out of the way.
+    - [Roblox](https://www.roblox.com/create) : Ultimate platform for building and publishing games for free. 
+    - 💲 [GameSalad](https://gamesalad.com/) : Allows people just like you to publish games to a wide variety of platforms, including iOS, Mac, Android, Windows 8, HTML5 and Tizen. Thousands of people have benefited from Creator’s drag and drop game creation method
 
 
 # System
 
-- [https://www.7-zip.org](https://www.7-zip.org/)
-- [Free Antivirus for Windows - Open source GPL virus scanner](https://clamwin.com/)
-- [qBittorrent Official Website](https://www.qbittorrent.org/)
-- [WinCDEmu - the easiest way to mount an ISO. And more...](https://wincdemu.sysprogs.org/)
-- [Get QuickLook from the Microsoft Store](https://apps.microsoft.com/store/detail/9NV4BS3L1H4S?hl=en-in&gl=IN)
-- [SHAREit: Transfer, Share Files, and More](https://www.ushareit.com/product/shareit/)
-- [Rufus - Create bootable USB drives the easy way](https://rufus.ie/en/)
-- [WiseCleaner Software - Optimize, Clean and Speed Up Your Windows PC](https://www.wisecleaner.com/)
-- [.NET | Build. Test. Deploy.](https://dotnet.microsoft.com/en-us/)
-- [Latest supported Visual C++ Redistributable downloads](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
-- [https://github.com/Zeeex/XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox)
-- [Autoruns for Windows - Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
-- [CPU-Z | Softwares | CPUID](https://www.cpuid.com/softwares/cpu-z.html)
-- [Download Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Download.php)
-- [Clean Your System and Free Disk Space | BleachBit](https://www.bleachbit.org/)
-- [Geek Uninstaller - the best FREE uninstaller](https://geekuninstaller.com/)
-- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
-- [UNetbootin - Homepage and Downloads](https://unetbootin.github.io/)
-- [The GTK Project - A free and open-source cross-platform widget toolkit](https://www.gtk.org/docs/installations/windows/)
-- [OpenJDK](https://openjdk.org/)
-- [Intel&reg; Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/detect.html)
-- [Office Tool Plus Website - Easy to Deploy Office](https://otp.landian.vip/en-us/)
-- [dupeGuru](https://dupeguru.voltaicideas.net/)
+- [7-zip](https://www.7-zip.org/) : New archive format, providing high compression ratio.
+- [Clamwin](https://clamwin.com/) : Free Antivirus program for Microsoft Windows 10 / 8 / 7 / Vista / XP / Me / 2000 / 98 and Windows Server 2012, 2008 and 2003.
+- [qBittorrent](https://www.qbittorrent.org/) : The qBittorrent project aims to provide an open-source software alternative to µTorrent.
+- [WinCDEmu](https://wincdemu.sysprogs.org/) : Open-source CD/DVD/BD emulator - a tool that allows you to mount optical disc images by simply clicking on them in Windows Explorer. If you have downloaded an ISO image and want to use it without burning it to a blank disc, WinCDEmu is the easiest way to do it.
+- [QuickLook](https://apps.microsoft.com/store/detail/9NV4BS3L1H4S?hl=en-in&gl=IN) : QuickLook enables a very quick preview of file contents by pressing the Spacebar.
+- [SHAREit](https://www.ushareit.com/product/shareit/) : a cross-platform high-speed file sharing platform and a one-stop digital entertainment platform for users.
+- [Rufus](https://rufus.ie/en/) : Rufus: Create bootable USB drives the easy way
+- [WiseCleaner](https://www.wisecleaner.com/) : Clean useless and outdated junk files, browser traces, cookies, and history. Free up your disk space, protect your privacy, and make your PC run faster.
+- [BleachBit](https://www.bleachbit.org/) : Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk you didn't know was there
+- [.NET](https://dotnet.microsoft.com/en-us/) : Free, open-source, cross-platform framework for building modern apps and powerful cloud services.
+- [Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) : The Visual C++ Redistributable installs Microsoft C and C++ (MSVC) runtime libraries. These libraries are required by many applications built by using Microsoft C and C++ tools. 
+- [XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) : Versatile tool to optimize Windows.
+- [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) : See what programs are configured to startup automatically when your system boots and you login.
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) : CPU-Z on x86 is a freeware that gathers information on some of the main devices of your system : Processor name and number, codename, process, package, cache levels.
+- [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Download.php) : The Free File Renaming Utility for Windows that allows you to easily rename files and entire folders based upon extremely flexible criteria.
+- [Geek Uninstaller](https://geekuninstaller.com/) : Performs deep and fast scanning and removes all leftovers. Keep your PC clean!
+- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) : Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
+- [UNetbootin](https://unetbootin.github.io/) : UNetbootin allows you to create bootable Live USB drives for Ubuntu, Fedora, and other Linux distributions without burning a CD. It runs on Windows, Linux, and Mac OS X.
+- [The GTK Project](https://www.gtk.org/docs/installations/windows/) : GTK is a free and open-source cross-platform widget toolkit for creating graphical user interfaces.
+- [OpenJDK](https://openjdk.org/) :  The place to collaborate on an open-source implementation of the Java Platform, Standard Edition, and related projects.
+- [Intel&reg; Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/detect.html) : The Intel® Driver & Support Assistant helps keeps your system up-to-date by detecting when updates are available.
+- [dupeGuru](https://dupeguru.voltaicideas.net/) : Tool to find duplicate files on your computer. It can scan either filenames or contents. The filename scan features a fuzzy matching algorithm that can find duplicate filenames even when they are not exactly the same.
 
 # Online Utilities
 
