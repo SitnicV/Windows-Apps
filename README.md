@@ -237,41 +237,66 @@ and integrate systems more effectively
 
 
 # Online Utilities
+### Visual Collaboration and Design Tools:
 
 - [Miro](https://miro.com/) : Visual workspace for innovation where teams manage projects, design products, and build the future together. Join 60M+ users from around the world.
-- [Text-To-Speech](https://ttsmp3.com/) : Easily convert your written text into natural sounding voice in up to 50 different languages and/or accents. Download as MP3 or listen to it.
+- [Creately](https://creately.com/) : A Visual collaboration and diagramming platform. Infinite whiteboards, powerful diagramming, data connectivity and integrates with your favorite tools.
+- [Witeboard](https://witeboard.com/) : Witeboard is the fastest way to collaborate real-time with your team anywhere.
+- [Octopus.do](https://octopus.do/) : Sitemap generator.
+- [Free-Sitemaps](https://free-sitemaps.com/) : Generate a sitemap completely free.
+- [GlooMaps](https://www.gloomaps.com/) : GlooMaps, simple and fast online sitemapping tool. Create and build a visual sitemap, add content and share with others. Website planning made easy
+- [FlowMapp](https://www.flowmapp.com/) : Innovative platform to plan, control and optimize the development of websites. It combines a visual sitemap planning tool, user flow tool, wireframing tool and content gathering system in one solution to build complex information architecture for websites, mobile apps and products.
+
+### Code Editors and Collaboration:
+
+- [Dillinger](https://dillinger.io/) : Online cloud based HTML5 filled Markdown Editor. Sync with Dropbox, Github, Google Drive or OneDrive. Convert HTML to Markdown. 100% Open Source!
+- [Codefile](https://codefile.io/) : Collaborative online code editor to share code in real-time with other developers. Create, share and edit collaborative code snippets online for your technical interviews, pair programming, teaching, etc.
+
+### File Conversion and Editing Tools:
+
 - [Vectorizer](https://www.vectorizer.io/) : Online Vectorizer: Online raster to vector converter. Convert your images (jpeg, jpg or png) into scalable and clear vector art (svg,eps,dxf).
 - [Online 3D Model Viewer](https://glb.ee/) : Online 3D model viewer that makes it super simple to view, collaborate and share your 3D models anywhere on the web.
 - [Animated Drawings](https://sketch.metademolab.com/) : Bring children's drawings to life, by animating characters to move around!
-- [Softonic](https://en.softonic.com/) : Place to discover the best applications for your device, offering you reviews, news, articles and free downloads. Welcome to your app guide!
-- [Dillinger](https://dillinger.io/) : Online cloud based HTML5 filled Markdown Editor. Sync with Dropbox, Github, Google Drive or OneDrive. Convert HTML to Markdown. 100% Open Source!
 - [Free SVG Converter](https://picsvg.com/) : Convert online picture to svg freely.
-- [Creately](https://creately.com/) : A Visual collaboration and diagramming platform. Infinite whiteboards, powerful diagramming, data connectivity and integrates with your favorite tools.
-- [presearch](https://presearch.com/) : Find results nearby based upon IP Geolocalization. New Tabs. Open links in a new browser tab. AI Results. Show AI results. Safe Search.
-- [9xbuddy](https://9xbuddy.com/) : 9xbuddy helps you download videos from sites like youtube, twitter, facebook, dailymotion and many other with ease
-- [10Web Dashboard](https://my.10web.io/)
-- [Internet Identity](https://identity.ic0.app/) : Securely connect to dapps on the Internet Computer
+- [Word Document to HTML](https://wordhtml.com/) : Free online Word to HTML converter with code cleaning features and easy switch between the visual and source editors. It works perfectly for any document conversion, like Microsoft Word
+- [Transform](https://transform.tools/) : A polyglot web converter that's going to save you a lot of time.
+- [Photopea](https://www.photopea.com/) : Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for free!
+- [Web Apps by 123apps](https://123apps.com) : Explore a suite of online tools for audio, video, and document editing. Convert, merge, and edit files effortlessly with user-friendly applications
+- [Animated GIF editor and GIF maker](https://ezgif.com/) : Easy to use online animated GIF maker and image editor. Upload and edit GIF images for free. Create, crop, resize, reverse, optimize and split animated GIFs, cut and resize videos, WebP and APNG animations.
+
+### Website Planning and Development:
+
 - [Web3Templates](https://web3templates.com/) : Launch your fully-functional Website within hours. SEO friendly Website Templates with High Page Speed. Built with HTML5, React, Next.js, TailwindCSS, Sanity CMS & Eleventy.
 - [Nextcloud](https://nextcloud.com/) : The most popular open source content collaboration platform for tens of millions of users at thousands of organizations across the globe
-- [SHAREit](https://www.ushareit.com/) : SHAREit Group is a next-generation internet technology company that exists to democratize digital access and empower businesses to grow.
-- [Photopea](https://www.photopea.com/) : Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for free!
-- [Witeboard](https://witeboard.com/) : Witeboard is the fastest way to collaborate real-time with your team anywhere.
-- [Word Document to HTML](https://wordhtml.com/) : Free online Word to HTML converter with code cleaning features and easy switch between the visual and source editors. It works perfectly for any document conversion, like Microsoft Word
-- [Codefile](https://codefile.io/) : Collaborative online code editor to share code in real-time with other developers. Create, share and edit collaborative code snippets online for your technical interviews, pair programming, teaching, etc.
 - [HTTP Status Code](https://httpstatus.io/) : Redirect checker to easily check status codes, response headers, and redirect chains.
-- [Octopus.do](https://octopus.do/)
 - [Scribe](https://scribehow.com/) : Scribe documents your processes for you. Build visual guides with text, links and screenshots instantly.
-- [Transform](https://transform.tools/) : A polyglot web converter that's going to save you a lot of time.
-- [GlooMaps](https://www.gloomaps.com/) : GlooMaps, simple and fast online sitemapping tool. Create and build a visual sitemap, add content and share with others. Website planning made easy!
-- [FlowMapp](https://www.flowmapp.com/) : Innovative platform to plan, control and optimize the development of websites. It combines a visual sitemap planning tool, user flow tool, wireframing tool and content gathering system in one solution to build complex information architecture for websites, mobile apps and products.
-- [Web Apps by 123apps](https://123apps.com) : Explore a suite of online tools for audio, video, and document editing. Convert, merge, and edit files effortlessly with user-friendly applications
-- [Free-Sitemaps](https://free-sitemaps.com/) : Generate a sitemap completely free.
+
+### Internet Technologies and Connectivity:
+
+- [presearch](https://presearch.com/) : Find results nearby based upon IP Geolocalization. New Tabs. Open links in a new browser tab. AI Results. Show AI results. Safe Search.
+- [Internet Identity](https://identity.ic0.app/) : Securely connect to dapps on the Internet Computer
+
+### File Sharing and Digital Access:
+
+- [SHAREit](https://www.ushareit.com/) : SHAREit Group is a next-generation internet technology company that exists to democratize digital access and empower businesses to grow.
+
+### Web Analysis and Color Tools:
+
 - [TextMagic](https://freetools.textmagic.com/) : Check out our collection of free tools designed to streamline data verification, SMS marketing, organizational and productivity efforts.
 - [infograph.venngage](https://infograph.venngage.com/infographics) : Create a design from the templates page by clicking on the new design button.
-- [Animated GIF editor and GIF maker](https://ezgif.com/) : Easy to use online animated GIF maker and image editor. Upload and edit GIF images for free. Create, crop, resize, reverse, optimize and split animated GIFs, cut and resize videos, WebP and APNG animations.
 - [Colorfy It](https://www.colorfyit.com/) : Easily analyze the colors of a website or css.
+
+### Vector Design Tools:
+
 - 💲 [Corel Vector](https://app.corelvector.com/) : Web-based vector app for design hobbyists and aspiring pros.
 - [Free Vector Graphics Editor](https://vectr.com/) : Free vector graphics editor. A simple yet powerful web and desktop cross-platform tool for everyone.
+
+### Miscellaneous
+
+- [Text-To-Speech](https://ttsmp3.com/) : Easily convert your written text into natural sounding voice in up to 50 different languages and/or accents. Download as MP3 or listen to it.
+- [Softonic](https://en.softonic.com/) : Place to discover the best applications for your device, offering you reviews, news, articles and free downloads. Welcome to your app guide!
+- [9xbuddy](https://9xbuddy.com/) : 9xbuddy helps you download videos from sites like youtube, twitter, facebook, dailymotion and many other with ease
+- [10Web Dashboard](https://my.10web.io/)
 
 
 
