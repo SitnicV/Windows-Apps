@@ -54,6 +54,8 @@
 - [Quick Screen Recorder](https://github.com/ModuleArt/quick-screen-recorder) : Quick Screen Recorder is a lightweight desktop screen recorder for Windows, built on top of WinForms (C#).
 - [ScreenRec](https://screenrec.com) : From task assignment to bug reporting and internal training, ScreenRec is trusted by 350,000+ users to reduce the need for meetings, cut down on emails and communicate more effectively across locations and time zones.
 - [ScreenToGif](https://www.screentogif.com) : Free screen recorder tool, which lets you record, edit and save as a gif, video or other formats.
+- [Fraps](https://fraps.com/) : Fraps can show your frame rate in games! Fraps performs video capture, screen capture and can benchmark your fps!
+- [LICEcap](https://www.cockos.com/licecap/) : LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc).
 - 💲 [Camtasia](https://www.techsmith.com/video-editor.html) : Record your screen, edit video clips, add video effects, transitions, and more. Get it today for both Windows and Mac!
 
 ### Video Converters
@@ -78,13 +80,28 @@
 - [Kodi](https://kodi.tv/) : Kodi is a free media player that is designed to look great on your big screen TV but is just as at home on a small screen.
 
 ---
+# Audio
+
+- [Spotify](https://www.spotify.com/download) : Spotify is a digital music service that gives you access to millions of songs.
+- [AIMP](http://www.aimp.ru/?do=download) : Is powerful free audio player for Windows and Linux (through Wine) that supports for local files, NAS, clouds and podcasts. Additionally, it includes powerful tools to operate with audio files.
+- [Tauon Music Box](https://tauonmusicbox.rocks/) : A modern, streamlined music player app that's packed with features! An emphasis on playlists and drag and drop importing puts you in control of your music library! Faded volume control, 24bit FLAC support and gapless playback provides the ultimate listening experience!
+- [Audacity](https://www.audacityteam.org/) : Audacity is a free, easy-to-use, multi-track audio editor and recorder. Edit, mix, and enhance your audio tracks with the power of Audacity.
+- [MusicBee](https://getmusicbee.com) : Makes it easy to manage, find, and play music files on your computer. MusicBee also supports podcasts, web radio stations and SoundCloud integration
+- [Ocenaudio](https://www.ocenaudio.com/) : The ocenaudio is a cross-platform audio editor, easy to use, fast and functional.
+- [Clownfish Voice Changer](https://clownfish-translator.com/voicechanger/) : Clownfish Voice Changer is an application for changing your voice. It's installed on system level so every application that uses microphone or other audio capture device will be affected. In general - your voice will be modified in Steam, Skype, Hangouts, ooVoo, Viber, Ekiga, Jitsi, Ventrilo, TeamSpeak, Mumble, Discord, etc.
+- [LMMS](https://lmms.io/) : LMMS is a free, open source, multiplatform digital audio workstation.
+- [MIXX](https://mixxx.org) : Free and open source DJ software for Windows, macOS, and Linux
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) : Volume Control per application for Windows.
+
+
+---
 # Office
 
 ### Note-Taking and Document Organization
 
-
 - [Anytype](https://download.anytype.io/) : for those who celebrate trust & autonomy.
 - [Notion](https://www.notion.so) : A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
+- [Taskade](https://www.taskade.com/) : Harness AI to generate new ideas and map out anything. Convert your brainstorming sessions into mind maps and track progress across projects. Taskade is your creative canvas for dynamic workflows, like the art of origami.
 - [Obsidian](https://obsidian.md/) : Obsidian is the private and flexible note‑taking app that adapts to the way you think.
 - [Joplin](https://joplinapp.org/) : An open source note-taking app. Capture your thoughts and securely access them from any device.
 - [Simplenote](https://simplenote.com/) : The simplest way to keep notes. Light, clean, and free. Simplenote is now available for iOS, Android, Mac, and the web.
@@ -94,7 +111,10 @@
 
 ### Document Editors and Suites
 
+- [ONLYOFFICE](https://www.onlyoffice.com/) : Secure online office suite highly compatible with MS Office formats. Connect it to your web platform for document editing and collaboration or use as a part of ONLYOFFICE Workspace.
+- [Apache OpenOffice ](https://www.openoffice.org/) : The leading open-source office software suite for word processing, spreadsheets, presentations, graphics, databases and more. 
 - [LibreOffice](https://www.libreoffice.org/) : Free office suite – the evolution of OpenOffice. Compatible with Microsoft .doc, .docx, .xls, .xlsx, .ppt, .pptx. Updated regularly, community powered.
+- [FreeOffice](https://www.freeoffice.com/en) : FreeOffice, the best free alternative to Microsoft Office (Word, Excel, PowerPoint) for Windows, Mac and Linux
 - [WPS Office](http://www.wps.com/download) : It's a free office software to help you easy work on PC, windows 10, windows 7, mac, iOS and android phone.
 - [Calligra](https://calligra.org/) : Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases.
 - [Pencil](https://pencil.evolus.vn/) : Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms.
@@ -110,6 +130,7 @@
 
 - [Focalboard](https://www.focalboard.com/) : Centralize, plan, and track all your work in one place. Focalboard helps your organization maintain a single source of truth, so your teams stay aligned to complete tasks, reach milestones, and achieve their goals.
 - [Thunderbird](https://www.thunderbird.net/en-US/) : Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!
+- [Nylas Mail](https://github.com/nylas/nylas-mail) :  Nylas Mail was an open-source mail client built on the modern web with Electron, React, and Flux. It was designed to be easy to extend, and many third-party plugins are available that add functionality to the client.
 
 ### Translation and Language Tools
 
@@ -123,21 +144,17 @@
 
 - [Caibre](https://calibre-ebook.com/) : The one stop solution for all your e-book needs. Comprehensive e-book software.
 - [Librum](https://librumreader.com/) : Librum is an application designed to make reading enjoyable and straightforward for everyone.
+- [Kobo](https://www.kobo.com/ww/en/p/desktop) : Instantly access our bookstore directly from the Kobo Desktop App, and choose from over 5 million of the world's best eBooks, comics, and kids’ titles.
 
 ### Password Management
 
 - [Bitwarden](https://bitwarden.com/download) : Bitwarden makes it easy for businesses and individuals to securely generate, store, and share passwords from any location, browser, or device. Create your free Bitwarden account today.
 
----
-# Audio
+### Utilites
 
-- [Spotify](https://www.spotify.com/download) : Spotify is a digital music service that gives you access to millions of songs.
-- [AIMP](http://www.aimp.ru/?do=download) : Is powerful free audio player for Windows and Linux (through Wine) that supports for local files, NAS, clouds and podcasts. Additionally, it includes powerful tools to operate with audio files.
-- [Tauon Music Box](https://tauonmusicbox.rocks/) : A modern, streamlined music player app that's packed with features! An emphasis on playlists and drag and drop importing puts you in control of your music library! Faded volume control, 24bit FLAC support and gapless playback provides the ultimate listening experience!
-- [Audacity](https://www.audacityteam.org/) : Audacity is a free, easy-to-use, multi-track audio editor and recorder. Edit, mix, and enhance your audio tracks with the power of Audacity.
-- [Ocenaudio](https://www.ocenaudio.com/) : The ocenaudio is a cross-platform audio editor, easy to use, fast and functional.
-- [Clownfish Voice Changer](https://clownfish-translator.com/voicechanger/) : Clownfish Voice Changer is an application for changing your voice. It's installed on system level so every application that uses microphone or other audio capture device will be affected. In general - your voice will be modified in Steam, Skype, Hangouts, ooVoo, Viber, Ekiga, Jitsi, Ventrilo, TeamSpeak, Mumble, Discord, etc.
-- [LMMS](https://lmms.io/) : LMMS is a free, open source, multiplatform digital audio workstation.
+- [CopyQ](https://hluk.github.io/CopyQ/) : Advanced clipboard manager with editing and scripting features.
+- [Ditto](https://ditto-cp.sourceforge.io/) : An extension to the standard windows clipboard. It saves each item placed on the clipboard allowing you access to any of those items at a later time
+- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch) : SpeedCrunch is a high-precision scientific calculator featuring a fast, keyboard-driven user interface. 
 
 ---
 # Images
@@ -180,6 +197,8 @@ obfuscate parts of your screenshot.
 - [FastStone Image Viewer](https://www.faststone.org/) : FastStone Image Viewer is a fast, stable, user-friendly image browser, converter and editor. It has a nice array of features that include image viewing, management, comparison, red-eye removal, emailing, resizing, cropping, retouching and color adjustments
 - [qView](https://interversehq.com/qview) : qView is a lightweight image viewer designed with minimalism and practicality in mind, available for Windows, macOS, and Linux
 - [XnView](https://www.xnview.com/en/) : One of the best and popular image viewer. The Image Viewer supports all major image formats (JPEG, TIFF, PNG, GIF, WEBP, PSD, JPEG2000, OpenEXR, camera RAW, HEIC, PDF, DNG, CR2). 
+- [InfranView](https://www.irfanview.com/) : One of the most popular viewers worldwide.
+
 
 ---
 # Animation
@@ -216,6 +235,9 @@ obfuscate parts of your screenshot.
 
 - [Git](https://git-scm.com/) : Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 - [GitHub Desktop](https://desktop.github.com/) : Simple collaboration from your desktop
+- [Sourcetree](https://www.sourcetreeapp.com/) : Simplifies how you interact with your Git repositories so you can focus on coding. Visualize and manage your repositories through 
+Sourcetree's simple Git GUI.
+- [TortoiseGit ](https://tortoisegit.org) : A Windows Shell Interface to Git and based on TortoiseSVN. It's open source and can fully be build with freely available software.
 
 ### Database Management
 
@@ -227,15 +249,22 @@ obfuscate parts of your screenshot.
 
 - [Laragon](https://laragon.org/) : Laragon: A great fast and easy way to create an isolated dev environment on Windows. Includes Mysql, PHP Memcached, Redis, Apache, and awesome for working with your Laravel projects.
 - [XAMPP](https://www.apachefriends.org/download.html) : XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
+- [MAMP](https://www.mamp.info/en/mamp/windows/) : The free web development solution with Apache, Nginx, PHP & MySQL
 - [Open Server Panel](https://ospanel.io/) : A portable software environment created specifically for web developers, taking into account their recommendations and wishes.
 - [Docker](https://www.docker.com/get-started) : Get started with Docker Desktop and join millions of developers in faster, more secure app development using containers and beyond.
 - [WampServer](https://www.wampserver.com/) : WampServer is a Windows-based Web development platform for building dynamic Web applications using Apache2, PHP and MySQL.
 - [Uniform Server](https://www.uniformserver.com/) : Build using a modular design approach, it includes the latest versions of Apache, MySQL or MariaDB, PHP (with version switching), phpMyAdmin or Adminer. No installation required! No registry dust! Just unpack and fire up!
 
+### File Compare
+
+- [Meldmerge](https://meldmerge.org) : Meld helps you compare files, directories, and version controlled projects. It provides two- and three-way comparison of both files and directories, and has support for many popular version control systems.
+- [WinMerge](https://winmerge.org/) : Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
+
 ### Terminal Emulators
 
 - [ConEmu](https://conemu.github.io/) : ConEmu-Maximus5 is a full-featured local terminal for Windows devs, admins and users. Get better console window with tabs, splits, Quake style, copy+paste, DosBox and PuTTY integration, and much more.
 - [Tabby](https://tabby.sh/) : Tabby is a free and open source SSH, local and Telnet terminal with everything you'll ever need.
+- [Hyper](https://hyper.is/) : A terminal built on web technologies
 
 ### Content Collaboration Platforms:
 
@@ -251,6 +280,11 @@ obfuscate parts of your screenshot.
 - [Apache NetBeans](https://netbeans.apache.org/front/main/) : Development Environment, Tooling Platform and Application Framework.
 - [Programmer's Notepad](https://www.pnotepad.org/) : Simple Notepad for Programmers
 - [Oni](https://github.com/onivim/oni) : Oni is a new kind of editor, focused on maximizing productivity - combining modal editing with features you expect in modern editors. Oni is built with neovim, and inspired by VSCode, Atom, LightTable, and Emacs
+- [Brackets](https://brackets.io/) : Modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers.
+- [Eclipse](https://www.eclipse.org/) : The Leading Open Platform for Professional Developers
+- 💲 [Sublime Text](https://www.sublimetext.com/) : Sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
+- 💲 [JetBrains](https://www.jetbrains.com/ides) : Empower yourself with JetBrains IDEs - create higher quality software in less time.
+
 
 ### Web Design
 
@@ -259,8 +293,33 @@ obfuscate parts of your screenshot.
 ### FTP Clients:
 
 - [FileZilla](https://filezilla-project.org/index.php) : Free FTP solution for both client and server. Filezilla is open source software distributed free of charge.
-- [PuTTY](https://www.ssh.com/ssh/putty/download) : Popular SSH, Telnet, and SFTP client for Windows. It is typically used for remote access to server computers over a network using the SSH protocol.
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) : Popular SSH, Telnet, and SFTP client for Windows. It is typically used for remote access to server computers over a network using the SSH protocol.
+- [MULTI-TABBED PUTTY](https://ttyplus.com/) : A small *FREE* utility enabling you to wrap unlimited number of PuTTY applications in one tabbed GUI interface. You are still continue using your favorite SSH client, but you are no longer messing around with PuTTY windows - each window will be opened in a separate tab.
+- [WinSCP](https://winscp.net) : WinSCP is a popular SFTP client and FTP client for Microsoft Windows! Copy file between a local computer and remote servers using FTP, FTPS, SCP, SFTP, WebDAV or S3 file transfer protocols.
 - 💲 [FlashFXP](https://www.flashfxp.com) : FlashFXP - Windows FTP Client. Supports FTP, FXP, FTPS, and SFTP file transfers. Free trial download.
+
+
+### Testing
+
+- [HTTP Toolkit](https://httptoolkit.com/) : Beautiful & open-source tool
+for debugging, testing and building with HTTP(S)
+on Windows, Linux & Mac.
+- [I'm Only Resting](https://github.com/SwensenSoftware/im-only-resting) : Feature-rich WinForms-based HTTP client that makes building and managing HTTP requests easy and offers various smart response content rendering modes.
+- [Insomnia](https://insomnia.rest/) : Design, debug, and test APIs locally or in the cloud
+- [Postman](https://www.postman.com) : An API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
+
+### Documentation 
+
+- 💲 [Velocity](https://velocity.silverlakesoftware.com/) : Over 150+ API documentation sets are available in Velocity covering some of the most popular languages and API frameworks that you use for everyday development
+
+### Networking
+
+-  [Wireshark](https://www.wireshark.org/) : The world's most popular network protocol analyzer
+Get started with Wireshark today and see why it is the standard across many commercial and non-profit enterprises.
+
+### Others
+
+- [HTTrack Website Copier](https://www.httrack.com/) : It allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
 
 ---
 # Game Makers
@@ -278,9 +337,19 @@ obfuscate parts of your screenshot.
 ---
 # System
 
+### File Managers
+
+- [Multi Commander](https://multicommander.com/) : Multi Commander is a multi-tabbed file manager and is an alternative to the standard Windows Explorer. It uses the very popular and efficient dual-panel layout.
+- [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) : The Quad-Directory-Explorer makes your files and folders easy to manage, either installed or as a Portable Windows program as an alternative Freeware to Windows File Explorer.
+- [OneCommander](https://onecommander.com/) : OneCommander is a modern file manager for Windows 10 and Windows 11. Features include tabs, dual-pane browsers, columns navigation, built-in preview, a theming system, color tags, and much more. It is free for home use and has no ads.
+- [Far Manager](https://www.farmanager.com/) : Far Manager is a program for managing files and archives in Windows operating systems. Far Manager works in text mode and provides a simple and intuitive interface for performing most of the necessary actions.
+- [Total Commander](https://www.ghisler.com/) : is a Shareware file manager
+
+
 ### File Archivers and Compression
 
 - [7-zip](https://www.7-zip.org/) : New archive format, providing high compression ratio.
+- [Bandizip](https://www.bandisoft.com/bandizip/) : Archiver for Professionals
 
 ### Antivirus and Security
 
@@ -315,18 +384,32 @@ obfuscate parts of your screenshot.
 
 - [Geek Uninstaller](https://geekuninstaller.com/) : Performs deep and fast scanning and removes all leftovers. Keep your PC clean!
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) : Remove large amounts of unwanted applications quickly.
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) :  powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software: certain types of viruses or human error.
 - [Disk Drill](https://www.cleverfiles.com) : Recover deleted, lost, or damaged data, personal or business documents, music, photos, videos, and other files from internal, external and virtual hard drives, memory cards, iPhones, iPads, Android devices, RAID arrays, and other data sources.
-- [Psiphon](https://psiphon.ca/) : Psiphon is circumvention software for Windows and Mobile platforms that provides uncensored access to Internet content
+- [Psiphon](https://psiphon.ca/) : Psiphon is circumvention software for Windows and Mobile platforms that provides uncensored access to Internet content VPN
+- [Algo VPN](https://github.com/trailofbits/algo): lgo VPN is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN
 - [Portals](https://portals-app.com/) : A simple, lightweight windows desktop organizer software to help with desktop organization. Create folder portals to display the contents of folders.
 - [XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) : Versatile tool to optimize Windows.
 - [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) : See what programs are configured to startup automatically when your system boots and you login.
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) : CPU-Z on x86 is a freeware that gathers information on some of the main devices of your system : Processor name and number, codename, process, package, cache levels.
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Download.php) : The Free File Renaming Utility for Windows that allows you to easily rename files and entire folders based upon extremely flexible criteria.
+- [Advanced Renamer](https://www.advancedrenamer.com/) : Advanced Renamer is a program for renaming multiple files and folders at once. By configuring renaming methods the names can be manipulated in various ways.
 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) : Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
 - [The GTK Project](https://www.gtk.org/docs/installations/windows/) : GTK is a free and open-source cross-platform widget toolkit for creating graphical user interfaces.
 - [Intel&reg; Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/detect.html) : The Intel® Driver & Support Assistant helps keeps your system up-to-date by detecting when updates are available.
 - [dupeGuru](https://dupeguru.voltaicideas.net/) : Tool to find duplicate files on your computer. It can scan either filenames or contents. The filename scan features a fuzzy matching algorithm that can find duplicate filenames even when they are not exactly the same.
 - [WinDirStat ](https://windirstat.net/) : WinDirStat is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
+-[Process Hacker](https://processhacker.sourceforge.io/) : A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+- [Duplicati](https://www.duplicati.com/) : Free backup software to store backups online with strong encryption. Works with FTP, SSH, WebDAV, OneDrive, Amazon S3, Google Drive and many others.
+- [f.lux](https://justgetflux.com) : Is your computer keeping you up late? f.lux is a free download that warms up your computer display at night, to match your indoor lighting.
+- [LightBulb](https://github.com/Tyrrrz/LightBulb) : An application that reduces eyestrain produced by staring at a computer screen when working late hours
+- [Keypirinha](https://keypirinha.com/) : A fast launcher for keyboard ninjas on Windows
+- [Launchy](https://www.launchy.net/) : Launchy indexes the programs in your start menu and can launch your documents, project files, folders, and bookmarks with just a few keystrokes! 
+- [Wox](http://www.wox.one/) : A full-featured launcher, access programs and web contents as you type. Be more productive ever since.
+- [ueli](https://ueli.app) : A keystroke launcher for Windows and macOS
+- [Ninite](https://ninite.com/) : The easiest, fastest way to update or install software. Ninite downloads and installs programs automatically in the background.
+- [FreeFileSync](https://freefilesync.org/) : FreeFileSync is a free open source data backup software which helps you compare and synchronize files and folders on Windows, macOS, and Linux.
+- [Unchecky](https://unchecky.com/) : Aims to keep potentially unwanted programs out of your computer.
 
 ---
 # Games
@@ -402,6 +485,14 @@ obfuscate parts of your screenshot.
 - [Softonic](https://en.softonic.com/) : Place to discover the best applications for your device, offering you reviews, news, articles and free downloads. Welcome to your app guide!
 - [9xbuddy](https://9xbuddy.com/) : 9xbuddy helps you download videos from sites like youtube, twitter, facebook, dailymotion and many other with ease
 - [10Web Dashboard](https://my.10web.io/)
+
+---
+
+🌟🌟🌟 Big thanks to our amazing supporters!🌟🌟🌟
+
+If you recognize the hard work invested in compiling this list, please contemplate supporting the cause. Many thanks!
+
+<a href="https://www.buymeacoffee.com/CfIbWTq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 
