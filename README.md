@@ -172,12 +172,12 @@ and integrate systems more effectively
 
 - ## Code Editors
 
-    - [Downloads](https://notepad-plus-plus.org/downloads)
-    - [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com)
-    - [Download Visual Studio Tools - Install Free for Windows, Mac, Linux](https://visualstudio.microsoft.com/downloads/)
-    - [Download Android Studio & App Tools - Android Developers](https://developer.android.com/studio)
-    - [Bootstrap Studio - The Revolutionary Web Design Tool](https://bootstrapstudio.io/)
-    - [VSCodium - Open Source Binaries of VSCode](https://vscodium.com/)
+    - [Notepad++](https://notepad-plus-plus.org/downloads) : Notepad++ is a text editor and source code editor for use under Microsoft Windows. It supports around 80 programming languages with syntax highlighting and code folding.
+    - [Visual Studio Code](https://code.visualstudio.com) : Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
+    - [Visual Studio](https://visualstudio.microsoft.com/downloads/) : The most comprehensive IDE for .NET and C++ developers on Windows for building web, cloud, desktop, mobile apps, services and games.
+    - [Android Studio](https://developer.android.com/studio) : Get the official Integrated Development Environment (IDE) for Android app development.
+    - 💲 [Bootstrap Studio](https://bootstrapstudio.io/) : A powerful web design tool for creating responsive websites using the Bootstrap framework.
+    - [VSCodium](https://vscodium.com/) : VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.
 
 - ## FTP / SFTP / SSH
 
