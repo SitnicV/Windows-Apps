@@ -102,7 +102,6 @@
 
 ### Reading and Viewing
 
-- [Librum](https://librumreader.com/) : Librum is an application designed to make reading enjoyable and straightforward for everyone.
 - [Okular](https://okular.kde.org) : Multi-platform, fast and packed with features, Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.
 - [CBR Reader ](http://www.cdisplayex.com/) : Light, Efficient CBR Reader. It is the most popular comic book reader. It is able to read all comic book formats (.cbr file, .cbz, .pdf, etc..) and Manga. Everything is designed to give you the best reading experience, it load comic books immediately, reading is fluid and comfortable.
 - [Sumatra PDF](https://www.sumatrapdfreader.org/) : Sumatra PDF reader and viewer for Windows
@@ -123,12 +122,14 @@
 ### E-book Management
 
 - [Caibre](https://calibre-ebook.com/) : The one stop solution for all your e-book needs. Comprehensive e-book software.
+- [Librum](https://librumreader.com/) : Librum is an application designed to make reading enjoyable and straightforward for everyone.
 
 ### Password Management
 
 - [Bitwarden](https://bitwarden.com/download) : Bitwarden makes it easy for businesses and individuals to securely generate, store, and share passwords from any location, browser, or device. Create your free Bitwarden account today.
 
 # Audio
+
 - [Spotify](https://www.spotify.com/download) : Spotify is a digital music service that gives you access to millions of songs.
 - [AIMP](http://www.aimp.ru/?do=download) : Is powerful free audio player for Windows and Linux (through Wine) that supports for local files, NAS, clouds and podcasts. Additionally, it includes powerful tools to operate with audio files.
 - [Tauon Music Box](https://tauonmusicbox.rocks/) : A modern, streamlined music player app that's packed with features! An emphasis on playlists and drag and drop importing puts you in control of your music library! Faded volume control, 24bit FLAC support and gapless playback provides the ultimate listening experience!
@@ -141,6 +142,7 @@
 # Images
 
 ### Graphic Design and Illustration:
+
  - 💲 [Affinity Designer](https://affinity.serif.com/en-gb/designer): The perfect app for creatives and other professionals looking to create high-quality concept art, illustrations, logos, icons, UI designs, mock-ups and more.
 - 💲 [Affinity Photo](https://affinity.serif.com/en-gb/photo/) : The only fully-loaded photo editor integrated across macOS, Windows and iPad, Affinity Photo is the first choice of millions of professionals around the world.
 - 💲 [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) : Affinity Publisher has everything you need to create spectacular layouts ready for publication.
@@ -171,14 +173,21 @@ obfuscate parts of your screenshot.
 
 - [Darktable](https://www.darktable.org/) : A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.
 - [digiKam](https://www.digikam.org/) : The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
-- [FastStone Image Viewer](https://www.faststone.org/) : FastStone Image Viewer is a fast, stable, user-friendly image browser, converter and editor. It has a nice array of features that include image viewing, management, comparison, red-eye removal, emailing, resizing, cropping, retouching and color adjustments
 
+### Photo Viewer:
+
+- [FastStone Image Viewer](https://www.faststone.org/) : FastStone Image Viewer is a fast, stable, user-friendly image browser, converter and editor. It has a nice array of features that include image viewing, management, comparison, red-eye removal, emailing, resizing, cropping, retouching and color adjustments
+- [qView](https://interversehq.com/qview) : qView is a lightweight image viewer designed with minimalism and practicality in mind, available for Windows, macOS, and Linux
+- [XnView](https://www.xnview.com/en/) : One of the best and popular image viewer. The Image Viewer supports all major image formats (JPEG, TIFF, PNG, GIF, WEBP, PSD, JPEG2000, OpenEXR, camera RAW, HEIC, PDF, DNG, CR2). 
 
 
 # Animation
 - [Pencil2D Animation](https://www.pencil2d.org/) : An easy, intuitive tool to make 2D hand-drawn animations.
 - [Synfig](https://www.synfig.org/) : Powerful industrial-strength solution for creating film-quality animation using a vector and bitmap artwork. It eliminates the need to create animation frame-by frame, allowing you to produce 2D animation of a higher quality with fewer people and resources.
 - [The Wick Editor](https://www.wickeditor.com/) : The Wick Editor is a free, open-source tool for creating games, animations, and everything in-between!
+- [OpenToonz](https://opentoonz.github.io/e/index.html) : Open-source Animation Production Software
+- [TupiTube](https://www.tupitube.com/index.php?r=custom_pages%2Fview&id=6) Your first animation experience. Free TupiTube animation tools for children and teenagers.
+- [AnimationPaper](https://animationpaper.com) : Pro animators, students, film makers and game developers will love the ease and speed working in Animation Paper for Windows, Mac and Linux.
 
 # 3D
 
@@ -237,6 +246,9 @@ obfuscate parts of your screenshot.
 - [Visual Studio](https://visualstudio.microsoft.com/downloads/) : The most comprehensive IDE for .NET and C++ developers on Windows for building web, cloud, desktop, mobile apps, services and games.
 - [Android Studio](https://developer.android.com/studio) : Get the official Integrated Development Environment (IDE) for Android app development.
 - [VSCodium](https://vscodium.com/) : VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.
+- [Apache NetBeans](https://netbeans.apache.org/front/main/) : Development Environment, Tooling Platform and Application Framework.
+- [Programmer's Notepad](https://www.pnotepad.org/) : Simple Notepad for Programmers
+- [Oni](https://github.com/onivim/oni) : Oni is a new kind of editor, focused on maximizing productivity - combining modal editing with features you expect in modern editors. Oni is built with neovim, and inspired by VSCode, Atom, LightTable, and Emacs
 
 ### Web Design
 
@@ -301,6 +313,10 @@ obfuscate parts of your screenshot.
 ### System Utilities and Optimization:
 
 - [Geek Uninstaller](https://geekuninstaller.com/) : Performs deep and fast scanning and removes all leftovers. Keep your PC clean!
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) : Remove large amounts of unwanted applications quickly.
+- [Disk Drill](https://www.cleverfiles.com) : Recover deleted, lost, or damaged data, personal or business documents, music, photos, videos, and other files from internal, external and virtual hard drives, memory cards, iPhones, iPads, Android devices, RAID arrays, and other data sources.
+- [Psiphon](https://psiphon.ca/) : Psiphon is circumvention software for Windows and Mobile platforms that provides uncensored access to Internet content
+- [Portals](https://portals-app.com/) : A simple, lightweight windows desktop organizer software to help with desktop organization. Create folder portals to display the contents of folders.
 - [XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) : Versatile tool to optimize Windows.
 - [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) : See what programs are configured to startup automatically when your system boots and you login.
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) : CPU-Z on x86 is a freeware that gathers information on some of the main devices of your system : Processor name and number, codename, process, package, cache levels.
@@ -309,6 +325,7 @@ obfuscate parts of your screenshot.
 - [The GTK Project](https://www.gtk.org/docs/installations/windows/) : GTK is a free and open-source cross-platform widget toolkit for creating graphical user interfaces.
 - [Intel&reg; Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/detect.html) : The Intel® Driver & Support Assistant helps keeps your system up-to-date by detecting when updates are available.
 - [dupeGuru](https://dupeguru.voltaicideas.net/) : Tool to find duplicate files on your computer. It can scan either filenames or contents. The filename scan features a fuzzy matching algorithm that can find duplicate filenames even when they are not exactly the same.
+- [WinDirStat ](https://windirstat.net/) : WinDirStat is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
 
 # Games
 - [Epic Games](https://store.epicgames.com/en-US/) : Welcome to Epic Games Store! Download and play PC Games of every genre. We have mods, DLC and Free Games too! Games for everyone.
