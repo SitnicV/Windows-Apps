@@ -124,35 +124,40 @@
 
 # Images
 
-- ## Editor
+### Graphic Design and Illustration:
+ - 💲 [Affinity Designer](https://affinity.serif.com/en-gb/designer): The perfect app for creatives and other professionals looking to create high-quality concept art, illustrations, logos, icons, UI designs, mock-ups and more.
+- 💲 [Affinity Photo](https://affinity.serif.com/en-gb/photo/) : The only fully-loaded photo editor integrated across macOS, Windows and iPad, Affinity Photo is the first choice of millions of professionals around the world.
+- 💲 [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) : Affinity Publisher has everything you need to create spectacular layouts ready for publication.
+- [Lunacy](https://icons8.com/lunacy) : Lunacy by Icons8 is free graphic design software for Windows, macOS, Linux. Open, edit sketch files with ease. Built-in vector, photos, UI kits, and more.
+- [Figma](https://www.figma.com/downloads/) : Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single platform.
+- [GIMP](https://www.gimp.org/) : Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins.
+- [Inkscape](https://inkscape.org/) : It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting. 
+- [Krita](https://krita.org/en/) : Free and open-source digital painting software. Unleash your creativity with powerful drawing and painting tools. Create stunning illustrations, concept art, and animations with Krita's intuitive interface. 
+- [Paint.NET](https://www.getpaint.net/) :  It features an intuitive and innovative user interface with support for layers, unlimited undo, special effects, and a wide variety of useful and powerful tools
+- [FireAlpaca](https://firealpaca.com/) : Free digital painting software for creative artists. Explore a user-friendly interface with powerful drawing tools. Design captivating illustrations and digital art effortlessly
 
-    - 💲 [Affinity Designer](https://affinity.serif.com/en-gb/designer): The perfect app for creatives and other professionals looking to create high-quality concept art, illustrations, logos, icons, UI designs, mock-ups and more.
-    - 💲 [Affinity Photo](https://affinity.serif.com/en-gb/photo/) : The only fully-loaded photo editor integrated across macOS, Windows and iPad, Affinity Photo is the first choice of millions of professionals around the world.
-    - 💲 [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) : Affinity Publisher has everything you need to create spectacular layouts ready for publication.
-    - [Lunacy](https://icons8.com/lunacy) : Lunacy by Icons8 is free graphic design software for Windows, macOS, Linux. Open, edit sketch files with ease. Built-in vector, photos, UI kits, and more.
-    - [Figma](https://www.figma.com/downloads/) : Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single platform.
-    - [GIMP](https://www.gimp.org/) : Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins.
-    - [Inkscape](https://inkscape.org/) : It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting. 
-    - [Krita](https://krita.org/en/) : Free and open-source digital painting software. Unleash your creativity with powerful drawing and painting tools. Create stunning illustrations, concept art, and animations with Krita's intuitive interface. 
-    - [Paint.NET](https://www.getpaint.net/) :  It features an intuitive and innovative user interface with support for layers, unlimited undo, special effects, and a wide variety of useful and powerful tools
-    - [FireAlpaca](https://firealpaca.com/) : Free digital painting software for creative artists. Explore a user-friendly interface with powerful drawing tools. Design captivating illustrations and digital art effortlessly
+### Screenshot and Image Editing:
 
-- ## Utility
-    - [Flameshot](https://flameshot.org/) : Flameshot is a free and open-source, cross-platform tool to take screenshots with many built-in features to save you time.  
-    - [GreenShot](https://getgreenshot.org/downloads) : Greenshot comes with an easy-to-use image editor, providing a handy featureset
+- [Flameshot](https://flameshot.org/) : Flameshot is a free and open-source, cross-platform tool to take screenshots with many built-in features to save you time.  
+- [GreenShot](https://getgreenshot.org/downloads) : Greenshot comes with an easy-to-use image editor, providing a handy featureset
 to add annotations or shapes to a screenshot. It even allows to highlight or
 obfuscate parts of your screenshot.
-    - [ShareX](https://getsharex.com/) : ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
-    - [PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) : KISS batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution ICO files using ImageMagick.
-    - [Photos2Folders](https://download.cnet.com/Photos2Folders/3000-12511_4-75875686.html) : Organize your digital camera photos into folders and eliminate duplicates.
-    - [AntiDupl](http://antidupl.sourceforge.net) :  It can find and display duplicate images in the main graphic formats: JPEG, GIF, TIFF, BMP, PNG, EMF, WMF, EXIF, ICON, JP2, PSD, DDS and TGA. The comparison is based on the contents of the files, so the program can find not only almost identical, but similar images. In addition, the program can find images with some types of defects.
-    - 💲 [Topaz Labs](https://www.topazlabs.com/) : Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more.
+- [ShareX](https://getsharex.com/) : ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+ - [PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) : KISS batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution ICO files using ImageMagick.
+- [Photos2Folders](https://download.cnet.com/Photos2Folders/3000-12511_4-75875686.html) : Organize your digital camera photos into folders and eliminate duplicates.
+- [AntiDupl](http://antidupl.sourceforge.net) :  It can find and display duplicate images in the main graphic formats: JPEG, GIF, TIFF, BMP, PNG, EMF, WMF, EXIF, ICON, JP2, PSD, DDS and TGA. The comparison is based on the contents of the files, so the program can find not only almost identical, but similar images. In addition, the program can find images with some types of defects.
+
+### Photo and Video Enhancement:
+
+- 💲 [Topaz Labs](https://www.topazlabs.com/) : Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more.
+
+### Photography and Raw Image Management:
+
+- [Darktable](https://www.darktable.org/) : A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.
+- [digiKam](https://www.digikam.org/) : The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
+- [FastStone Image Viewer](https://www.faststone.org/) : FastStone Image Viewer is a fast, stable, user-friendly image browser, converter and editor. It has a nice array of features that include image viewing, management, comparison, red-eye removal, emailing, resizing, cropping, retouching and color adjustments
 
 
-- ## Manager
-    - [Darktable](https://www.darktable.org/) : A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.
-    - [digiKam](https://www.digikam.org/) : The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
-    - [FastStone Image Viewer](https://www.faststone.org/) : FastStone Image Viewer is a fast, stable, user-friendly image browser, converter and editor. It has a nice array of features that include image viewing, management, comparison, red-eye removal, emailing, resizing, cropping, retouching and color adjustments
 
 # Animation
 - [Pencil2D Animation](https://www.pencil2d.org/) : An easy, intuitive tool to make 2D hand-drawn animations.
