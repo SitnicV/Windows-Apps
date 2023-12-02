@@ -172,47 +172,65 @@ obfuscate parts of your screenshot.
 
 # Development
 
-- ## Dependency 
-    - [Composer](https://getcomposer.org/download) : A Dependency Manager for PHP
-    - [Download | Node.js](https://nodejs.org/en/download) : Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-    - [Git](https://git-scm.com/) : Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-    - [GitHub Desktop](https://desktop.github.com/) : Simple collaboration from your desktop
+### Dependency Management
 
-- ## Database
-    - [HeidiSQL](https://www.heidisql.com) :  see and edit data and structures from computers running one of the database systems MariaDB, MySQL, Microsoft SQL, PostgreSQL and SQLite. 
-    - [Adminer](https://www.adminer.org) : Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others via plugin.
-    - [MySQL](https://dev.mysql.com/) : A leading open-source relational database management system. Power your applications with secure, scalable, and high-performance database solutions.
+- [Composer](https://getcomposer.org/download) : A Dependency Manager for PHP
 
-- ## Runtime
-    - [Java SE Runtime Environment 8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html) : Enable your applications to run Java programs seamlessly
-    - [Python](https://www.python.org/downloads) : Python is a programming language that lets you work quickly
-and integrate systems more effectively
+### Runtimes
 
-- ## Local Development
-    - [Laragon](https://laragon.org/) : Laragon: A great fast and easy way to create an isolated dev environment on Windows. Includes Mysql, PHP Memcached, Redis, Apache, and awesome for working with your Laravel projects.
-    - [XAMPP](https://www.apachefriends.org/download.html) : XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
-    - [Open Server Panel](https://ospanel.io/) : A portable software environment created specifically for web developers, taking into account their recommendations and wishes.
-    - [Docker](https://www.docker.com/get-started) : Get started with Docker Desktop and join millions of developers in faster, more secure app development using containers and beyond.
-    - [WampServer](https://www.wampserver.com/) : WampServer is a Windows-based Web development platform for building dynamic Web applications using Apache2, PHP and MySQL.
-    - [Uniform Server](https://www.uniformserver.com/) : Build using a modular design approach, it includes the latest versions of Apache, MySQL or MariaDB, PHP (with version switching), phpMyAdmin or Adminer. No installation required! No registry dust! Just unpack and fire up!
-    - [ConEmu](https://conemu.github.io/) : ConEmu-Maximus5 is a full-featured local terminal for Windows devs, admins and users. Get better console window with tabs, splits, Quake style, copy+paste, DosBox and PuTTY integration, and much more.
-    - [Tabby](https://tabby.sh/) : Tabby is a free and open source SSH, local and Telnet terminal with everything you'll ever need.
-    - [Nextcloud](https://nextcloud.com/) : The most popular open source content collaboration platform for tens of millions of users at thousands of organizations across the globe
+- [Node.js](https://nodejs.org/en/download) : Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Java SE Runtime Environment 8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html) : Enable your applications to run Java programs seamlessly
+- [Python](https://www.python.org/downloads) : Python is a programming language that lets you work quickly and integrate systems more effectively
+- [.NET](https://dotnet.microsoft.com/en-us/) : Free, open-source, cross-platform framework for building modern apps and powerful cloud services.
+- [Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) : The Visual C++ Redistributable installs Microsoft C and C++ (MSVC) runtime libraries. These libraries are required by many applications built by using Microsoft C and C++ tools. 
+- [OpenJDK](https://openjdk.org/) :  The place to collaborate on an open-source implementation of the Java Platform, Standard Edition, and related projects.
 
-- ## Code Editors
+### Version Control
 
-    - [Notepad++](https://notepad-plus-plus.org/downloads) : Notepad++ is a text editor and source code editor for use under Microsoft Windows. It supports around 80 programming languages with syntax highlighting and code folding.
-    - [Visual Studio Code](https://code.visualstudio.com) : Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
-    - [Visual Studio](https://visualstudio.microsoft.com/downloads/) : The most comprehensive IDE for .NET and C++ developers on Windows for building web, cloud, desktop, mobile apps, services and games.
-    - [Android Studio](https://developer.android.com/studio) : Get the official Integrated Development Environment (IDE) for Android app development.
-    - [VSCodium](https://vscodium.com/) : VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.
-     - 💲 [Bootstrap Studio](https://bootstrapstudio.io/) : A powerful web design tool for creating responsive websites using the Bootstrap framework.
+- [Git](https://git-scm.com/) : Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+- [GitHub Desktop](https://desktop.github.com/) : Simple collaboration from your desktop
 
-- ## FTP / SFTP / SSH
+### Database Management
 
-    - [FileZilla](https://filezilla-project.org/index.php) : Free FTP solution for both client and server. Filezilla is open source software distributed free of charge.
-    - [PuTTY](https://www.ssh.com/ssh/putty/download) : Popular SSH, Telnet, and SFTP client for Windows. It is typically used for remote access to server computers over a network using the SSH protocol.
-    - 💲 [FlashFXP](https://www.flashfxp.com) : FlashFXP - Windows FTP Client. Supports FTP, FXP, FTPS, and SFTP file transfers. Free trial download.
+- [HeidiSQL](https://www.heidisql.com) :  see and edit data and structures from computers running one of the database systems MariaDB, MySQL, Microsoft SQL, PostgreSQL and SQLite. 
+- [Adminer](https://www.adminer.org) : Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others via plugin.
+- [MySQL](https://dev.mysql.com/) : A leading open-source relational database management system. Power your applications with secure, scalable, and high-performance database solutions.
+
+### Web Development Environments
+
+- [Laragon](https://laragon.org/) : Laragon: A great fast and easy way to create an isolated dev environment on Windows. Includes Mysql, PHP Memcached, Redis, Apache, and awesome for working with your Laravel projects.
+- [XAMPP](https://www.apachefriends.org/download.html) : XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
+- [Open Server Panel](https://ospanel.io/) : A portable software environment created specifically for web developers, taking into account their recommendations and wishes.
+- [Docker](https://www.docker.com/get-started) : Get started with Docker Desktop and join millions of developers in faster, more secure app development using containers and beyond.
+- [WampServer](https://www.wampserver.com/) : WampServer is a Windows-based Web development platform for building dynamic Web applications using Apache2, PHP and MySQL.
+- [Uniform Server](https://www.uniformserver.com/) : Build using a modular design approach, it includes the latest versions of Apache, MySQL or MariaDB, PHP (with version switching), phpMyAdmin or Adminer. No installation required! No registry dust! Just unpack and fire up!
+
+### Terminal Emulators
+
+- [ConEmu](https://conemu.github.io/) : ConEmu-Maximus5 is a full-featured local terminal for Windows devs, admins and users. Get better console window with tabs, splits, Quake style, copy+paste, DosBox and PuTTY integration, and much more.
+- [Tabby](https://tabby.sh/) : Tabby is a free and open source SSH, local and Telnet terminal with everything you'll ever need.
+
+### Content Collaboration Platforms:
+
+- [Nextcloud](https://nextcloud.com/) : The most popular open source content collaboration platform for tens of millions of users at thousands of organizations across the globe
+
+### Text Editors and IDEs
+
+- [Notepad++](https://notepad-plus-plus.org/downloads) : Notepad++ is a text editor and source code editor for use under Microsoft Windows. It supports around 80 programming languages with syntax highlighting and code folding.
+- [Visual Studio Code](https://code.visualstudio.com) : Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
+- [Visual Studio](https://visualstudio.microsoft.com/downloads/) : The most comprehensive IDE for .NET and C++ developers on Windows for building web, cloud, desktop, mobile apps, services and games.
+- [Android Studio](https://developer.android.com/studio) : Get the official Integrated Development Environment (IDE) for Android app development.
+- [VSCodium](https://vscodium.com/) : VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.
+
+### Web Design
+
+- 💲 [Bootstrap Studio](https://bootstrapstudio.io/) : A powerful web design tool for creating responsive websites using the Bootstrap framework.
+
+### FTP Clients:
+
+- [FileZilla](https://filezilla-project.org/index.php) : Free FTP solution for both client and server. Filezilla is open source software distributed free of charge.
+- [PuTTY](https://www.ssh.com/ssh/putty/download) : Popular SSH, Telnet, and SFTP client for Windows. It is typically used for remote access to server computers over a network using the SSH protocol.
+- 💲 [FlashFXP](https://www.flashfxp.com) : FlashFXP - Windows FTP Client. Supports FTP, FXP, FTPS, and SFTP file transfers. Free trial download.
 
 
 - ## Game Makers
@@ -230,26 +248,48 @@ and integrate systems more effectively
 
 # System
 
+### File Archivers and Compression
+
 - [7-zip](https://www.7-zip.org/) : New archive format, providing high compression ratio.
+
+### Antivirus and Security
+
 - [Clamwin](https://clamwin.com/) : Free Antivirus program for Microsoft Windows 10 / 8 / 7 / Vista / XP / Me / 2000 / 98 and Windows Server 2012, 2008 and 2003.
+
+### BitTorrent Clients
+
 - [qBittorrent](https://www.qbittorrent.org/) : The qBittorrent project aims to provide an open-source software alternative to µTorrent.
+
+### Disk Image Emulators
+
 - [WinCDEmu](https://wincdemu.sysprogs.org/) : Open-source CD/DVD/BD emulator - a tool that allows you to mount optical disc images by simply clicking on them in Windows Explorer. If you have downloaded an ISO image and want to use it without burning it to a blank disc, WinCDEmu is the easiest way to do it.
+
+### File Preview
+
 - [QuickLook](https://apps.microsoft.com/store/detail/9NV4BS3L1H4S?hl=en-in&gl=IN) : QuickLook enables a very quick preview of file contents by pressing the Spacebar.
+
+### File Sharing
+
 - [SHAREit](https://www.ushareit.com/product/shareit/) : a cross-platform high-speed file sharing platform and a one-stop digital entertainment platform for users.
+
+### USB Drive Creation
+
 - [Rufus](https://rufus.ie/en/) : Rufus: Create bootable USB drives the easy way
+- [UNetbootin](https://unetbootin.github.io/) : UNetbootin allows you to create bootable Live USB drives for Ubuntu, Fedora, and other Linux distributions without burning a CD. It runs on Windows, Linux, and Mac OS X.
+
+### System Cleanup and Optimization
 - [WiseCleaner](https://www.wisecleaner.com/) : Clean useless and outdated junk files, browser traces, cookies, and history. Free up your disk space, protect your privacy, and make your PC run faster.
 - [BleachBit](https://www.bleachbit.org/) : Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk you didn't know was there
-- [.NET](https://dotnet.microsoft.com/en-us/) : Free, open-source, cross-platform framework for building modern apps and powerful cloud services.
-- [Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) : The Visual C++ Redistributable installs Microsoft C and C++ (MSVC) runtime libraries. These libraries are required by many applications built by using Microsoft C and C++ tools. 
+
+### System Utilities and Optimization:
+
+- [Geek Uninstaller](https://geekuninstaller.com/) : Performs deep and fast scanning and removes all leftovers. Keep your PC clean!
 - [XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) : Versatile tool to optimize Windows.
 - [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) : See what programs are configured to startup automatically when your system boots and you login.
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) : CPU-Z on x86 is a freeware that gathers information on some of the main devices of your system : Processor name and number, codename, process, package, cache levels.
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Download.php) : The Free File Renaming Utility for Windows that allows you to easily rename files and entire folders based upon extremely flexible criteria.
-- [Geek Uninstaller](https://geekuninstaller.com/) : Performs deep and fast scanning and removes all leftovers. Keep your PC clean!
 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) : Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
-- [UNetbootin](https://unetbootin.github.io/) : UNetbootin allows you to create bootable Live USB drives for Ubuntu, Fedora, and other Linux distributions without burning a CD. It runs on Windows, Linux, and Mac OS X.
 - [The GTK Project](https://www.gtk.org/docs/installations/windows/) : GTK is a free and open-source cross-platform widget toolkit for creating graphical user interfaces.
-- [OpenJDK](https://openjdk.org/) :  The place to collaborate on an open-source implementation of the Java Platform, Standard Edition, and related projects.
 - [Intel&reg; Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/detect.html) : The Intel® Driver & Support Assistant helps keeps your system up-to-date by detecting when updates are available.
 - [dupeGuru](https://dupeguru.voltaicideas.net/) : Tool to find duplicate files on your computer. It can scan either filenames or contents. The filename scan features a fuzzy matching algorithm that can find duplicate filenames even when they are not exactly the same.
 
