@@ -128,6 +128,7 @@
 
 - [Bitwarden](https://bitwarden.com/download) : Bitwarden makes it easy for businesses and individuals to securely generate, store, and share passwords from any location, browser, or device. Create your free Bitwarden account today.
 
+---
 # Audio
 
 - [Spotify](https://www.spotify.com/download) : Spotify is a digital music service that gives you access to millions of songs.
@@ -138,7 +139,7 @@
 - [Clownfish Voice Changer](https://clownfish-translator.com/voicechanger/) : Clownfish Voice Changer is an application for changing your voice. It's installed on system level so every application that uses microphone or other audio capture device will be affected. In general - your voice will be modified in Steam, Skype, Hangouts, ooVoo, Viber, Ekiga, Jitsi, Ventrilo, TeamSpeak, Mumble, Discord, etc.
 - [LMMS](https://lmms.io/) : LMMS is a free, open source, multiplatform digital audio workstation.
 
-
+---
 # Images
 
 ### Graphic Design and Illustration:
@@ -180,7 +181,7 @@ obfuscate parts of your screenshot.
 - [qView](https://interversehq.com/qview) : qView is a lightweight image viewer designed with minimalism and practicality in mind, available for Windows, macOS, and Linux
 - [XnView](https://www.xnview.com/en/) : One of the best and popular image viewer. The Image Viewer supports all major image formats (JPEG, TIFF, PNG, GIF, WEBP, PSD, JPEG2000, OpenEXR, camera RAW, HEIC, PDF, DNG, CR2). 
 
-
+---
 # Animation
 - [Pencil2D Animation](https://www.pencil2d.org/) : An easy, intuitive tool to make 2D hand-drawn animations.
 - [Synfig](https://www.synfig.org/) : Powerful industrial-strength solution for creating film-quality animation using a vector and bitmap artwork. It eliminates the need to create animation frame-by frame, allowing you to produce 2D animation of a higher quality with fewer people and resources.
@@ -189,12 +190,13 @@ obfuscate parts of your screenshot.
 - [TupiTube](https://www.tupitube.com/index.php?r=custom_pages%2Fview&id=6) Your first animation experience. Free TupiTube animation tools for children and teenagers.
 - [AnimationPaper](https://animationpaper.com) : Pro animators, students, film makers and game developers will love the ease and speed working in Animation Paper for Windows, Mac and Linux.
 
+---
 # 3D
 
 - [Blender](https://www.blender.org/) : It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
 - [FreeCAD](https://www.freecad.org/) : Everything you do in FreeCAD uses real-world units, be it microns, kilometers, inches or feet, or even any combination of units. FreeCAD offers tools to produce, export and edit solid, full-precision models, export them for 3D printing or CNC machining, create 2D drawings and views of your models, perform analyses such as Finite Element Analyses, or export model data such as quantities or bills of materials.
 
-
+---
 # Development
 
 ### Dependency Management
@@ -261,7 +263,6 @@ obfuscate parts of your screenshot.
 - 💲 [FlashFXP](https://www.flashfxp.com) : FlashFXP - Windows FTP Client. Supports FTP, FXP, FTPS, and SFTP file transfers. Free trial download.
 
 ---
-
 # Game Makers
 
 - [GameMaker](https://gamemaker.io/en) : Make a game with GameMaker, the best free video game engine. Perfect for beginners and professionals. Learn to build your own 2D games with our simple tutorials.
@@ -274,7 +275,7 @@ obfuscate parts of your screenshot.
 - [Roblox](https://www.roblox.com/create) : Ultimate platform for building and publishing games for free. 
 - 💲 [GameSalad](https://gamesalad.com/) : Allows people just like you to publish games to a wide variety of platforms, including iOS, Mac, Android, Windows 8, HTML5 and Tizen. Thousands of people have benefited from Creator’s drag and drop game creation method
 
-
+---
 # System
 
 ### File Archivers and Compression
@@ -327,6 +328,7 @@ obfuscate parts of your screenshot.
 - [dupeGuru](https://dupeguru.voltaicideas.net/) : Tool to find duplicate files on your computer. It can scan either filenames or contents. The filename scan features a fuzzy matching algorithm that can find duplicate filenames even when they are not exactly the same.
 - [WinDirStat ](https://windirstat.net/) : WinDirStat is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
 
+---
 # Games
 - [Epic Games](https://store.epicgames.com/en-US/) : Welcome to Epic Games Store! Download and play PC Games of every genre. We have mods, DLC and Free Games too! Games for everyone.
 - [Steam](https://store.steampowered.com/) : Steam is the ultimate destination for playing, discussing, and creating games.
@@ -338,7 +340,7 @@ obfuscate parts of your screenshot.
 - [Striked](https://striked.gg) : Experience the exciting world of Striked, a universe made for gaming! Start your own community, buy games, share content, and have fun with friends.
 - [Valorant](https://playvalorant.com/en-us/) : Riot Games presents VALORANT: a 5v5 character-based tactical FPS where precise gunplay meets unique agent abilities. Learn about VALORANT and its stylish cast
 
-
+---
 # Online Utilities
 ### Visual Collaboration and Design Tools:
 
