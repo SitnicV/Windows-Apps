@@ -125,6 +125,8 @@
 - [Okular](https://okular.kde.org) : Multi-platform, fast and packed with features, Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.
 - [CBR Reader ](http://www.cdisplayex.com/) : Light, Efficient CBR Reader. It is the most popular comic book reader. It is able to read all comic book formats (.cbr file, .cbz, .pdf, etc..) and Manga. Everything is designed to give you the best reading experience, it load comic books immediately, reading is fluid and comfortable.
 - [Sumatra PDF](https://www.sumatrapdfreader.org/) : Sumatra PDF reader and viewer for Windows
+- [FBReader](https://fbreader.org) : ePub, fb2, and other book formats reader for all platforms. Free, fast, and highly configurable. Network book sources, adding custom OPDS. Cloud sync
+- [EPUB File Reader](http://www.epubfilereader.com/) : EPUB File Reader is a free EPUB files viewer, can help you to open and read ePub e-books and documents. The software interface consists of two parts, the left will show document chapter directory, the right is a browser to show document content
 
 ### Communication and Collaboration
 
